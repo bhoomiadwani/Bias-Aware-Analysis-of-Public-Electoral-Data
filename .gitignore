@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+outputs/dashboard_graphs/
+data/processed/*.csv
