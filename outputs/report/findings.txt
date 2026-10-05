@@ -1,0 +1,27 @@
+BIAS-AWARE ELECTORAL DATA ANALYSIS
+
+Descriptive findings
+States/UTs analyzed: 36
+Mean voter turnout: 71.33%
+Highest turnout: Lakshadweep (85.21%)
+Lowest turnout: Jammu & Kashmir (44.97%)
+
+Data quality
+Missing values before cleaning: 0
+Duplicate rows before cleaning: 0
+Rows removed during cleaning: 0
+
+Turnout groups
+{'High': 12, 'Moderate': 11, 'Very High': 10, 'Low': 3}
+
+Bias-aware interpretation
+The results describe observed differences in aggregated State/UT-level turnout.
+Turnout differences alone are not evidence of electoral bias, manipulation, or
+unfairness. Geographic, social, demographic, administrative and accessibility
+factors are not fully represented in this simple dataset.
+
+Limitations
+- Aggregated public data are used instead of individual voter records.
+- State/UT aggregation can hide constituency or demographic differences.
+- Source-data quality and representation limitations may affect results.
+- Stronger conclusions require contextual variables and suitable statistical tests.
